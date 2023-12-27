@@ -1,12 +1,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #87CEEB; /* небесно-голубой цвет фона /
-    background-image: url('minecraft_background.jpg'); / замените 'minecraft_background.jpg' на путь к своему изображению фона /
+    background-color: #87CEEB; /* небесно-голубой цвет фона */
+    background-image: url('minecraft_background.jpg'); /* замените 'minecraft_background.jpg' на путь к своему изображению фона */
     background-size: cover;
     background-position: center;
     font-family: 'Arial', sans-serif;
-    color: #fff; / цвет текста /
+    color: #fff; /* цвет текста */
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    color: #ff9900; / оранжевый цвет для заголовка /
+    color: #ff9900; /* оранжевый цвет для заголовка */
 }
 
 p {
@@ -25,11 +25,11 @@ p {
     margin-bottom: 20px;
 }
 
-/ Добавим стили для создания "пиксельного" эффекта, вдохновленного Minecraft /
+/* Добавим стили для создания "пиксельного" эффекта, вдохновленного Minecraft */
 .pixel {
     width: 10px;
     height: 10px;
     display: inline-block;
-    background-color: #000; / цвет пикселя /
-    margin: 1px; / расстояние между пикселями */
+    background-color: #000; /* цвет пикселя */
+    margin: 1px; /* расстояние между пикселями */
 }
