@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #87CEEB; /* небесно-голубой цвет фона */
-    background-image: url('minecraft_background.jpg'); /* замените 'minecraft_background.jpg' на путь к своему изображению фона */
+    background-image: url('https://i.ibb.co/MN6zT3V/4898392049.png'); /* замените 'minecraft_background.jpg' на путь к своему изображению фона */
     background-size: cover;
     background-position: center;
     font-family: 'Arial', sans-serif;
